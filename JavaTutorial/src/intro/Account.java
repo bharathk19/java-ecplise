@@ -16,6 +16,7 @@ public class Account {
 	public void withdraw(int amount) throws SQLException {
 		getConn();
 		System.out.println("program is executed");
+		//withdrawl code
 	}
 	
 }
