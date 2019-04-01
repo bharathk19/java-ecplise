@@ -7,7 +7,7 @@ import java.util.List;
 public class LinkedList_few {
 
 	public static void main(String[] args) {
-		List<String> LL= new LinkedList();
+		LinkedList<String> LL= new LinkedList();
 		LL.add("bharath");
 		LL.add("sonu");
 		LL.add("Fun");
@@ -16,6 +16,7 @@ public class LinkedList_few {
 		while(c.hasNext())
 		{
 			System.out.println(c.next());
+			System.out.println("this is from 2nd developer");
 		}
 		
 	}
