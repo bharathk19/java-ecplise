@@ -11,6 +11,7 @@ public class LinkedList_few {
 		LL.add("bharath");
 		LL.add("sonu");
 		LL.add("Fun");
+		//this the linked list for the problem
 		System.out.println(LL.size());
 		Iterator<String> c=LL.iterator();
 		while(c.hasNext())
