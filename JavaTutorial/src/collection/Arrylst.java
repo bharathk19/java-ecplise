@@ -11,7 +11,9 @@ public class Arrylst {
 		  Student s3=new Student(103,"Hanumat",25);  
 		  //creating arraylist  
 		  ArrayList<Student> al=new ArrayList<Student>();  
+		  // lkjd;hd;lkfjeojflkdsjf;k
 		  al.add(s1);//adding Student class object  
+		  /// Adding an comment
 		  al.add(s2);  
 		  al.add(s3);  
 		  //Getting Iterator  
